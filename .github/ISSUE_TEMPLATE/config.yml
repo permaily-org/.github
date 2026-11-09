@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/permaily-org/permaily/security/advisories/new
+    about: Report it privately. Never open a public issue for a vulnerability.
+  - name: Ask a question
+    url: https://github.com/permaily-org/permaily/discussions
+    about: Questions and ideas go to Discussions.
+  - name: Commercial license
+    url: https://github.com/permaily-org/permaily/blob/develop/docs/commercial.md
+    about: Using Permaily in or for an organization needs a commercial license.
