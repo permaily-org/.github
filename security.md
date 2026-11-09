@@ -17,7 +17,7 @@ Permaily's promise is that the public code is the code running, and that only th
 - a TLS connection to the service that ends outside the enclave;
 - a verifier (`scripts/verify.sh`, `pkg/attestation`) that accepts a forged or debug-mode attestation.
 
-Permaily trusts AWS and the Nitro hardware; weaknesses in them are out of scope. The [threat model](https://github.com/permaily-org/permaily/blob/develop/docs/security.md) describes what is and is not trusted.
+Permaily trusts AWS and the Nitro hardware; weaknesses in them are out of scope. The [threat model](https://github.com/permaily-org/permaily/blob/develop/docs/threat-model.md) describes what is and is not trusted.
 
 ## Supported versions
 
