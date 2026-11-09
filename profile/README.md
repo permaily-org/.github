@@ -17,6 +17,7 @@ Permaily runs inside AWS Nitro Enclaves, and its service image is built reproduc
 | [Contributing](https://github.com/permaily-org/permaily/blob/develop/docs/contributing.md) | Propose a change and sign the CLA |
 | [Discussions](https://github.com/permaily-org/permaily/discussions) | Questions and ideas |
 | [Security](https://github.com/permaily-org/permaily/security/advisories/new) | Report a vulnerability privately |
+| [Code of conduct](https://github.com/permaily-org/.github/blob/main/CODE_OF_CONDUCT.md) | How we expect everyone to behave |
 
 ## Status
 
